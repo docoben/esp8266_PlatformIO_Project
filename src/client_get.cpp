@@ -62,5 +62,5 @@ void setup() {
 
 void loop() {
   ArduinoOTA.handle();
-  int a;
+  int a,b;
 }
